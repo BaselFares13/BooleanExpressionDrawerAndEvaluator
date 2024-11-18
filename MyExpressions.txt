@@ -1,0 +1,19 @@
+~p+~q+r.e.~w
+p+~q+r.e.~w
+p.q.r.e.~w
+~p.~q.~e.~r+w
+~p.~q.~e.r+w
+~p.~q.~e.r+~w
+p.q.e.~r+w
+p.q.e.~r+~w
+p+q+r+e+w
+p+q+r+e+~w
+~p+~q+~r+~e+w
+p+~q+~r+~e+~w
+~p+~q+~r+~e+~w
+p.q.~r.e.w
+~p.q.r.e.w
+p.q.r.e.~w
+p.q.r.e.w
+p.~q  + ~r . w
+p+~q . w + r
